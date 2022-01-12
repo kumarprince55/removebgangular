@@ -1,0 +1,7 @@
+{
+  "name": "Election Advisor",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
